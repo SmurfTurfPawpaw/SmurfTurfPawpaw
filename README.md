@@ -17,6 +17,12 @@ I also built a local reader that joins PDFs, mail and chat in a searchable index
 
 [See the work, technical details and CV](https://giovannicallebaut.com/work/)
 
+## Recent writing
+
+- [What cheaper code makes possible](https://giovannicallebaut.com/blog/what-cheaper-code-makes-possible/) — How checks, retries and review change the cost of useful software.
+- [What your code costs](https://giovannicallebaut.com/blog/what-your-code-costs/) — Follow ownership, copies and data flow in AI-written code.
+- [DeepSeek V4.1](https://giovannicallebaut.com/blog/deepseek-v4-1/) — Trace shared attention state and the limits of a cache-memory calculation.
+
 ## Tools
 
 Python · JavaScript/Node.js · SQL/SQLite · C++ · REST APIs · JSON Schema · Git · Windows/Linux
