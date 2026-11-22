@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="520" viewBox="0 0 860 520" role="img" aria-labelledby="card-title card-desc">
+  <title id="card-title">Giovanni Callebaut — Fold. profile</title>
+  <desc id="card-desc">A terminal-style profile card for Giovanni's applied AI and software systems work, projects, tools, and technical writing.</desc>
+  <rect x="8" y="8" width="844" height="504" rx="10" fill="#080c14" stroke="#293743" stroke-width="2"/>
+  <text x="30" y="38" fill="#eef5f6" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="15" font-weight="700" letter-spacing="0.4">FOLD. / GIOVANNI CALLEBAUT</text>
+  <text x="830" y="37" text-anchor="end" fill="#afbdc7" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="9" letter-spacing="0.7">APPLIED AI / SYSTEMS</text>
+  <line x1="28" y1="56" x2="832" y2="56" stroke="#293743" stroke-width="1"/>
+  <text x="30" y="82" fill="#71f0ce" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="9.5" letter-spacing="1.2">SYSTEMS / WORKFLOW</text>
+  <line x1="293" y1="72" x2="293" y2="464" stroke="#293743" stroke-width="1"/>
+  <text x="316" y="82" fill="#71f0ce" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11.5">giovanni@fold:~ $ profile --compact</text>
+  <text x="29" y="105" xml:space="preserve" fill="#afbdc7" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11.2">
+    <tspan x="29" dy="0" fill="#8fb8ff">     .----------------.</tspan>
+    <tspan x="29" dy="14" fill="#afbdc7">     | INTENT / SCOPE |</tspan>
+    <tspan x="29" dy="14" fill="#8fb8ff">     '-------+--------'</tspan>
+    <tspan x="29" dy="14" fill="#71f0ce">             |</tspan>
+    <tspan x="29" dy="14" fill="#71f0ce">             v</tspan>
+    <tspan x="29" dy="14" fill="#8fb8ff"> .-----------+------------.</tspan>
+    <tspan x="29" dy="14" fill="#afbdc7"> | AGENT / HARNESS        |</tspan>
+    <tspan x="29" dy="14" fill="#afbdc7"> | plan · act · inspect   |</tspan>
+    <tspan x="29" dy="14" fill="#8fb8ff"> '---------+--------------'</tspan>
+    <tspan x="29" dy="14" fill="#71f0ce">           |</tspan>
+    <tspan x="29" dy="14" fill="#71f0ce">           v</tspan>
+    <tspan x="29" dy="14" fill="#8fb8ff"> .---------+-------------.</tspan>
+    <tspan x="29" dy="14" fill="#afbdc7"> | OUTPUT / EVIDENCE    |</tspan>
+    <tspan x="29" dy="14" fill="#afbdc7"> | inputs · checks · logs|</tspan>
+    <tspan x="29" dy="14" fill="#8fb8ff"> '---------+-------------'</tspan>
+    <tspan x="29" dy="14" fill="#71f0ce">           |</tspan>
+    <tspan x="29" dy="14" fill="#71f0ce">           v</tspan>
+    <tspan x="29" dy="14" fill="#8fb8ff"> .---------+-------------.</tspan>
+    <tspan x="29" dy="14" fill="#afbdc7"> | REVIEW / REPLAY      |</tspan>
+    <tspan x="29" dy="14" fill="#afbdc7"> | accept · revise · stop|</tspan>
+    <tspan x="29" dy="14" fill="#8fb8ff"> '---------+-------------'</tspan>
+    <tspan x="29" dy="14" fill="#eacc84">      changed? --+-- re-check</tspan>
+  </text>
+  <text font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="12.5" xml:space="preserve">
+    <tspan x="316" y="116" fill="#eacc84">IDENTITY</tspan><tspan x="390" y="116" fill="#61717d">...........</tspan><tspan x="482" y="116" fill="#eef5f6">Giovanni Callebaut</tspan>
+    <tspan x="316" y="142" fill="#eacc84">BASE</tspan><tspan x="390" y="142" fill="#61717d">...........</tspan><tspan x="482" y="142" fill="#eef5f6">Ghent, Belgium</tspan>
+    <tspan x="316" y="168" fill="#eacc84">FOCUS</tspan><tspan x="390" y="168" fill="#61717d">...........</tspan><tspan x="482" y="168" fill="#eef5f6">Applied AI · software · systems</tspan>
+    <tspan x="316" y="194" fill="#eacc84">BUILDS</tspan><tspan x="390" y="194" fill="#61717d">...........</tspan><tspan x="482" y="194" fill="#eef5f6">AI harnesses · agent workflows</tspan>
+    <tspan x="316" y="234" fill="#eacc84">IINE</tspan><tspan x="390" y="234" fill="#61717d">...........</tspan><tspan x="482" y="234" fill="#8fb8ff">Python task and evidence harness</tspan>
+    <tspan x="316" y="260" fill="#eacc84">GATE</tspan><tspan x="390" y="260" fill="#61717d">...........</tspan><tspan x="482" y="260" fill="#8fb8ff">AI + scoped security workflows</tspan>
+    <tspan x="316" y="286" fill="#eacc84">HIVES</tspan><tspan x="390" y="286" fill="#61717d">...........</tspan><tspan x="482" y="286" fill="#8fb8ff">Duplicate-aware CSV comparison</tspan>
+    <tspan x="316" y="312" fill="#eacc84">MANUAL</tspan><tspan x="390" y="312" fill="#61717d">...........</tspan><tspan x="482" y="312" fill="#8fb8ff">API security benchmark · with Tatter</tspan>
+    <tspan x="316" y="352" fill="#eacc84">ORIGIN</tspan><tspan x="390" y="352" fill="#61717d">...........</tspan><tspan x="482" y="352" fill="#eef5f6">SafeSpace → ATENA Space</tspan>
+    <tspan x="316" y="378" fill="#eacc84">STACK</tspan><tspan x="390" y="378" fill="#61717d">...........</tspan><tspan x="482" y="378" fill="#eef5f6">Python · C# · JavaScript/Node · SQL · C++</tspan>
+    <tspan x="316" y="404" fill="#eacc84">SYSTEMS</tspan><tspan x="390" y="404" fill="#61717d">...........</tspan><tspan x="482" y="404" fill="#eef5f6">APIs · IoT/MQTT · networking</tspan>
+    <tspan x="316" y="430" fill="#eacc84">WRITING</tspan><tspan x="390" y="430" fill="#61717d">...........</tspan><tspan x="482" y="430" fill="#71f0ce">Fold. · technical explainers</tspan>
+  </text>
+  <line x1="28" y1="464" x2="832" y2="464" stroke="#293743" stroke-width="1"/>
+  <text x="30" y="486" fill="#afbdc7" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="9.5">TASK → TOOL → EVIDENCE → REVIEW</text>
+  <text x="830" y="486" text-anchor="end" fill="#71f0ce" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="9.5">BUILD / INSPECT / PROVE</text>
+</svg>
