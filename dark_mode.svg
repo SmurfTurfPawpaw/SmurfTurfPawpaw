@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,monospace" width="985px" height="530px" font-size="16px">
+<style>
+@font-face {
+src: local('Consolas'), local('Consolas Bold');
+font-family: 'ConsolasFallback';
+font-display: swap;
+-webkit-size-adjust: 109%;
+size-adjust: 109%;
+}
+.key {fill: #ffa657;}
+.value {fill: #a5d6ff;}
+.addColor {fill: #3fb950;}
+.delColor {fill: #f85149;}
+.cc {fill: #616e7f;}
+text, tspan {white-space: pre;}
+</style>
+<rect width="985px" height="530px" fill="#161b22" rx="15"/>
+<text x="15" y="30" fill="#c9d1d9" class="ascii">
+<tspan x="15" y="30">            :;:;rXsi:.</tspan>
+<tspan x="15" y="50">          .XXssrs22sii:</tspan>
+<tspan x="15" y="70">         ,A52Xiii;iirrr:</tspan>
+<tspan x="15" y="90">        i555s,::::::;;ir:</tspan>
+<tspan x="15" y="110">       .53sr;rrirX55ri;;r:</tspan>
+<tspan x="15" y="130">       ,Ar;irsA5MHHHMh2;;.</tspan>
+<tspan x="15" y="150">       .ri:iiX3MHHMMMMH2,</tspan>
+<tspan x="15" y="170">        ,rirs5hhhhhMMh52,</tspan>
+<tspan x="15" y="190">         Asi3hh332A3hAA2,</tspan>
+<tspan x="15" y="210">        ,hhX3HMh3A2MMXX5;</tspan>
+<tspan x="15" y="230">         AMh3MMMh3MMMh3Mi</tspan>
+<tspan x="15" y="250">         .2MMMMMHMMhh35Mi</tspan>
+<tspan x="15" y="270">           :5HMMM35Xsrs3;</tspan>
+<tspan x="15" y="290">         .. AGMHHh25525X  ...</tspan>
+<tspan x="15" y="310">      .    rSMMhhhMh2A25:      ..</tspan>
+<tspan x="15" y="330">   .    iAM9Bh3M5AA2AXiH#Hh2r:.</tspan>
+<tspan x="15" y="350"> .  .r5G99999#25Mh3555rh999999SM2;</tspan>
+<tspan x="15" y="370">  :3S999#S#999#5233335r5B#S##99BBB3 .</tspan>
+<tspan x="15" y="390">,3#99#SSSS##9999M52555AM9####9##999X</tspan>
+<tspan x="15" y="410">sB#S###S##S#99999SM525GSMG9999999###i</tspan>
+<tspan x="15" y="430">S#S###SS###SS##GMS#S5MSHS#99999#9##9S</tspan>
+<tspan x="15" y="450">##SS##SS####SS##SGS##SGS#9999#9#9####</tspan>
+<tspan x="15" y="470">99#SS#SS########9#####S#9##########99</tspan>
+<tspan x="15" y="490">5MGSS#9##########9##9999999999999#GH5</tspan>
+<tspan x="15" y="510">  ,;rX53hMHGGSSSS######SSSGHMh52si,</tspan>
+</text>
+<text x="390" y="30" fill="#c9d1d9">
+<tspan x="390" y="30">giovanni@fold</tspan> -———————————————————————————————————-—-
+<tspan x="390" y="50" class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> ......................... </tspan><tspan class="value">Windows, WSL, Linux</tspan>
+<tspan x="390" y="70" class="cc">. </tspan><tspan class="key">Base</tspan>:<tspan class="cc"> ....................... </tspan><tspan class="value">Ghent, Belgium</tspan>
+<tspan x="390" y="90" class="cc">. </tspan><tspan class="key">Focus</tspan>:<tspan class="cc"> ...................... </tspan><tspan class="value">Applied AI, software, systems</tspan>
+<tspan x="390" y="110" class="cc">. </tspan><tspan class="key">Work</tspan>:<tspan class="cc"> ....................... </tspan><tspan class="value">Independent project work</tspan>
+<tspan x="390" y="130" class="cc">. </tspan><tspan class="key">Tools</tspan>:<tspan class="cc"> ...................... </tspan><tspan class="value">Codex, Claude Code, Kimi</tspan>
+<tspan x="390" y="170" class="cc">. </tspan><tspan class="key">Languages.Programming</tspan>:<tspan class="cc"> ...... </tspan><tspan class="value">Python, C#, JavaScript, SQL</tspan>
+<tspan x="390" y="190" class="cc">. </tspan><tspan class="key">Languages.Systems</tspan>:<tspan class="cc"> .......... </tspan><tspan class="value">FastAPI, REST, IoT/MQTT</tspan>
+<tspan x="390" y="210" class="cc">. </tspan><tspan class="key">Languages.Real</tspan>:<tspan class="cc"> ............. </tspan><tspan class="value">Dutch, English, French (basic)</tspan>
+<tspan x="390" y="250" class="cc">. </tspan><tspan class="key">Interests.AI</tspan>:<tspan class="cc"> ............... </tspan><tspan class="value">Agents, harnesses, MCPs, evals</tspan>
+<tspan x="390" y="270" class="cc">. </tspan><tspan class="key">Interests.Systems</tspan>:<tspan class="cc"> .......... </tspan><tspan class="value">Networking, security, APIs</tspan>
+<tspan x="390" y="310">- Contact</tspan> -——————————————————————————————————————————————-—-
+<tspan x="390" y="330" class="cc">. </tspan><tspan class="key">Website</tspan>:<tspan class="cc"> .................... </tspan><tspan class="value">giovannicallebaut.com</tspan>
+<tspan x="390" y="350" class="cc">. </tspan><tspan class="key">LinkedIn</tspan>:<tspan class="cc"> ................... </tspan><tspan class="value">Giovanni Callebaut</tspan>
+<tspan x="390" y="370" class="cc">. </tspan><tspan class="key">Fold</tspan>:<tspan class="cc"> ....................... </tspan><tspan class="value">Technical writing</tspan>
+<tspan x="390" y="410">- Projects</tspan> -———————————————————————————————————-—-
+<tspan x="390" y="430" class="cc">. </tspan><tspan class="key">IINE</tspan>:<tspan class="cc"> ....................... </tspan><tspan class="value">Evidence-led AI research harness</tspan>
+<tspan x="390" y="450" class="cc">. </tspan><tspan class="key">GATE</tspan>:<tspan class="cc"> ....................... </tspan><tspan class="value">Agent/security control plane</tspan>
+<tspan x="390" y="470" class="cc">. </tspan><tspan class="key">Hives CSV</tspan>:<tspan class="cc"> .................. </tspan><tspan class="value">Exact-key CSV comparison</tspan>
+<tspan x="390" y="490" class="cc">. </tspan><tspan class="key">Manual</tspan>:<tspan class="cc"> ..................... </tspan><tspan class="value">AI security benchmark / Tatter</tspan>
+<tspan x="390" y="510" class="cc">. </tspan><tspan class="key">SafeSpace</tspan>:<tspan class="cc"> .................. </tspan><tspan class="value">ATENA Space precursor</tspan>
+</text>
+</svg>
